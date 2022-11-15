@@ -1,0 +1,295 @@
+
+
+#cartItems .cartItem{
+    border-bottom: 0px solid #DDD;
+    padding-top: 15px ;
+    padding-bottom: 15px;
+}
+
+#cartItems .cartItem .productPicture {
+    width: 100%;
+    height: auto;
+
+}
+#cartItems .price {
+    font-weight: bold;
+    font-family: "Calibri Light";
+    color: darkred;
+}
+
+#pirceid {
+    font-weight: bold;
+    font-family: "Calibri Light";
+    color: darkred;
+    margin-left: 20px;
+}
+#cartItems .cartItemHeader {
+    border-bottom: 0px solid #DDD;
+
+}
+
+#rechts {
+    text-align: right;
+}
+
+#mainueber {
+    font-family: "Calibri Light";
+    color: grey;
+    text-align: left;
+    margin-top: 50px;
+
+    margin-left: 5px;
+}
+#titeldesign{
+    font-family: "Calibri Light";
+    color: grey;
+    font-size:1.5em;
+    text-transform: uppercase;
+    margin-left: 15px;
+    margin-top: 5%;
+    margin-bottom: 3%;
+}
+
+.card {
+    border: none;
+}
+
+#descrdesign{
+    font-family: "Calibri Light";
+    color: grey;
+    margin-top: -5%;
+}
+
+#detaildesign {
+    background-color: white;
+    font-family: "Calibri Light";
+    color: grey;
+    border: none;
+
+
+}
+.card-footer {
+    background-color: white;
+}
+#kaufendesign {
+    background-color: grey;
+    font-family: "Calibri Light";
+    color: white;
+    border: none;
+    margin-left: 5%;
+}
+
+#bearbeitendesign {
+    background-color: darkblue;
+    font-family: "Calibri Light";
+    color: white;
+    border: none;
+    margin-top: 5%;
+    margin-bottom: 3%;
+}
+#descrdesignware {
+    font-family: "Calibri Light";
+    color: grey;
+    margin-top: -2%;
+    margin-left: 3%;
+}
+#borderfooter {
+    border-top: none ;
+}
+#warenkorbdesign {
+    font-family: "Calibri Light";
+    text-decoration: none;
+    color: darkblue;
+    font-size:1em;
+}
+#homedesign{
+    font-family: "Calibri Light";
+    color: grey;
+    font-size:1em;
+}
+#anmeldendesign {
+
+    font-family: "Calibri Light";
+    color: grey;
+    font-size:1.3em;
+    margin-top: -15px;
+    margin-left: 0px;
+    margin-bottom: 20px;
+}
+#designnavunten {
+    background-color: white !important;
+
+}
+#designneu {
+    background-color: white;
+    font-family: "Calibri Light";
+    color: darkblue;
+    text-decoration: none;
+    margin-left: -10px;
+
+    font-size:1.3em;
+}
+
+#designnavoben {
+    background-color: white !important;
+    padding-top: 20px;
+}
+#preisdesign{
+    font-family: "Calibri Light";
+    color: grey;
+    font-size:1em;
+}
+#buttonbestellendesign{
+    background-color: darkgreen;
+    color: white;
+    border: none;
+    font-family: "Calibri Light";
+    font-size:1em;
+    margin-top: 40px;
+    margin-bottom: 50px;
+}
+
+#warenkorbdesignok {
+    font-family: "Calibri Light";
+    color: grey;
+    font-size:2em;
+
+}
+
+#containerwarenkorb {
+    margin-bottom: 40px;
+    margin-top: 40px;
+
+}
+#logindesign {
+    background-color: white !important;
+    font-family: "Calibri Light";
+    color: grey;
+    font-size:1.3em;
+    border: 0px solid white !important;
+}
+
+
+#logindesignok {
+    background-color: grey !important;
+    font-family: "Calibri Light";
+    color: white;
+    font-size:1em;
+    border: 0px solid white !important;
+}
+
+label {
+    color: grey;
+    font-family: "Calibri Light";
+}
+.card-footer {
+    border-top: none !important;
+}
+
+#adressendesign {
+    font-family: "Calibri Light";
+    color: darkgreen;
+    font-size:1em;
+    background-color: lightgreen;
+    margin-left: 19px;
+    margin-bottom: 40px;
+    margin-top: 20px;
+}
+
+#adressenwaehlendesign {
+    font-family: "Calibri Light";
+    color: darkgreen;
+    font-size:1em;
+    border: 0px solid white !important;
+    text-decoration: none;
+}
+#whitespache{
+    background-color: white;
+    border: none;
+
+}
+
+#abbrechencheck{
+    background-color: darkred;
+    border: none;
+    margin-right: 5px;
+    margin-left: 6%;
+}
+#bestellencheck{
+    background-color: darkgreen;
+    border: none;
+    margin-left: 5px;
+}
+#checkcontainer{
+    margin-top: 40px;
+    margin-bottom: 40px;
+
+}
+#dankebestellungdesign {
+    font-family: "Calibri Light";
+    color: darkgreen;
+    font-size: 2em;
+    text-align: center;
+    margin-top: 50px;
+}
+#detaildesignok {
+    font-family: "Calibri Light" !important;
+    color: grey;
+    font-size:2em;
+}
+
+#detaildesignheader {
+    background-color: white !important;
+    border-bottom: none;
+}
+
+#pricedetail {
+    font-family: "Calibri Light" !important;
+    color: grey;
+    font-size:1em;
+}
+#descrdesignwaredetail {
+    font-family: "Calibri Light";
+    color: grey;
+    margin-top: 3%;
+    margin-left: 3%;
+}
+
+#detaildesignoktitel {
+    font-family: "Calibri Light" !important;
+    color: grey;
+    font-size:2em;
+    margin-left: 3%;
+    margin-top: 3%;
+}
+
+#headerdesigndetailok{
+    font-family: "Calibri Light" !important;
+    color: grey;
+    font-size: 1em;
+    background-color: white !important;
+    border-bottom: none;
+}
+
+#detailzurueckok{
+    font-family: "Calibri Light" !important;
+    color: grey;
+    font-size: 1em;
+    background-color: white !important;
+    border: none;
+    margin-left: -3px;
+}
+#detailkaufenok {
+    font-family: "Calibri Light" !important;
+    color: white;
+    font-size: 1em;
+    background-color: grey;
+    border: none;
+    margin-top: 30px;
+    margin-left:  3%;
+}
+
+
+#detailrowok {
+    margin-bottom: 40px;
+}
